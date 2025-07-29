@@ -21,5 +21,5 @@ python inventori.py
 - info.txt → identitas pembuat
 
 ## NIM & Nama
-NIM: 241100310069  
+NIM: 24110310069  
 Nama: Rezandi Pratama Sidik
